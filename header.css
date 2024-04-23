@@ -1,5 +1,11 @@
 a{
   text-decoration: none;
+  color: #323232;
+  
+}
+
+ul {
+  list-style: none;
 }
 
 .header_left > ul {
@@ -41,6 +47,18 @@ header {
  color: aliceblue;
  padding : 10px;
  border-radius: 6px;
+}
+
+/*------------------------------------------- */
+
+.main01 {
+  justify-content: center;
+  display: flex;
+  padding: 64px;
+  margin : 0;
+  font-weight: 700;
+  font-size : 1.75rem;
+  color: #323232;
 }
 
 
