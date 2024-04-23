@@ -1,0 +1,59 @@
+a{
+  text-decoration: none;
+}
+
+.header_left > ul {
+  background-color: white;
+  color: black;
+  display:flex;
+  font-size : 16px;
+
+}
+
+.header_right > ul  {
+  display:flex;
+  
+
+}
+
+.header_left > ul > li {
+  list-style: none;
+  line-height: 50px; /* 중간 설정 */
+  margin : 0 10px;
+  color: #323232;
+
+}
+
+
+.header_right > ul > li {
+  list-style: none;
+  line-height: 50px; /* 중간 설정 */
+  margin : 0 10px;
+}
+
+header {
+  display:flex;
+  justify-content: space-between;
+}
+
+.login_button > a{
+ background-color: #00c7ae;
+ color: aliceblue;
+ padding : 10px;
+ border-radius: 6px;
+}
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
